@@ -49,7 +49,7 @@ To learn more about other comparison options, see "[Three-dot and two-dot diff c
 
 ## Comparing across forks
 
-You can compare your base repository and any forked repository. This is the view that's presented when a user performs a Pull Request to a project.
+You can compare any pair in your base repository and forked repositories. This is the view that's presented when a user performs a pull request to a project.
 
 To compare branches on different repositories, preface the branch names with user names. For example, by specifying `octocat:main` for `base` and `octo-org:main` for `compare`, you can compare the `main` branch of the repositories respectively owned by `octocat` and `octo-org`.
 
